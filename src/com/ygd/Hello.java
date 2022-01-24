@@ -6,5 +6,6 @@ public class Hello {
         System.out.println("hello git");
         System.out.println("hello ygd");
         System.out.println("fuck 老孟");
+        System.out.println("hot-fix add");
     }
 }
