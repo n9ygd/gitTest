@@ -5,5 +5,6 @@ public class Hello {
     public static void main(String[] args) {
         System.out.println("hello git");
         System.out.println("hello ygd");
+        System.out.println("fuck 老孟");
     }
 }
