@@ -9,5 +9,6 @@ public class Hello {
         System.out.println("hot-fix conflicts");
         System.out.println("fuck 老孟");
         System.out.println("hot-fix add");
+        System.out.println("push test");
     }
 }
